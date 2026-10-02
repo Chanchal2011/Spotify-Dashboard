@@ -1177,27 +1177,27 @@ spotify-top-50-powerbi-dashboard/
 
 # 📸 Dashboard Preview
 
+## 🏠 Dashboard Index
+
+![Dashboard Index](./Screenshots/Index.png)
+
+---
+
 ## 🎵 Overview Dashboard
 
-Add your Power BI overview screenshot here.
+![Spotify Dashboard Overview](./Screenshots/Overview.png)
 
-```markdown
-![Spotify Dashboard Overview](Screenshots/overview.png)
-```
+---
 
 ## 👨‍🎤 Artist Analysis
 
-```markdown
-![Artist Analysis](Screenshots/artists.png)
-```
+![Artist Analysis](./Screenshots/Artists.png)
+
+---
 
 ## 🎵 Song Analysis
 
-```markdown
-![Song Analysis](Screenshots/songs.png)
-```
-
----
+![Song Analysis](./Screenshots/Songs.png)
 
 # 📊 DAX Measure Summary
 
