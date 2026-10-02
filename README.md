@@ -1156,21 +1156,22 @@ Possible future improvements include:
 # 📁 Project Structure
 
 ```text
-spotify-top-50-powerbi-dashboard/
+Spotify-Dashboard/
 │
 ├── README.md
-├── Spotify_Top_50_Dashboard.pbix
+├── Spotify_Analysis.pbix
 │
 ├── Dataset/
-│   └── Top-50-World.csv
+│   └── spotify-top-50-world.csv
 │
-├── Screenshots/
-│   ├── overview.png
-│   ├── artists.png
-│   └── songs.png
+├── Screenshorts/
+│   ├── Artists.png
+│   ├── Index.png
+│   ├── Overview.png
+│   └── Songs.png
 │
 └── Documentation/
-    └── project_documentation.pdf
+    └── Project_Documentation.pdf
 ```
 
 ---
